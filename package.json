@@ -1,0 +1,15 @@
+{
+  "name": "js-fp",
+  "version": "1.0.0",
+  "description": "it's simple functional lib demo",
+  "main": "index.js",
+  "author": "Jesse Fan <564649080@qq.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
